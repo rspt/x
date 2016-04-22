@@ -1,3 +1,3 @@
 # x - code
 
-[code-review](code-review.md)
+[Code review](code-review.md)
