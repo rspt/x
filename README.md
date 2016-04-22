@@ -1,2 +1,2 @@
-# x.rspt.io
+# x
 :tiger:
