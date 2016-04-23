@@ -40,4 +40,4 @@
 
 ## Sources
 
--   [Fog Creek - Stop More Bugs with our Code Review Checklist](http://blog.fogcreek.com/increase-defect-detection-with-our-code-review-checklist-example/)
+-   [Gov.uk - Content and publishing](https://www.gov.uk/topic/government-digital-guidance/content-publishing)
