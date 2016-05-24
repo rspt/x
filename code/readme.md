@@ -7,6 +7,7 @@
 ## Languages
 
 [JS](js.md)
+[HTML](html.md)
 [CSS](css.md)
 
 ## CMS
