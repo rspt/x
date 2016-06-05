@@ -33,6 +33,7 @@ it’s short-term or one-off styling, use an utility class.
 *   [An ultimate guide to CSS pseudo classes and pseudo elements](https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/)
 *   [BEM](https://en.bem.info/)
 *   [Sass](http://sass-lang.com/)
+*   [Parker](https://github.com/katiefenn/parker/) - Stylesheet analysis tool
 
 ### Great articles and blogs
 
