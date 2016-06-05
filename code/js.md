@@ -2,4 +2,4 @@
 
 ## Resources
 
--   [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+*   [You Might Not Need jQuery](http://youmightnotneedjquery.com/)

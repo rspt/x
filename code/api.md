@@ -4,6 +4,6 @@
 
 ### General
 
--   [ ] Does all endpoints returns JSON?
--   [ ] Does all endpoints handle correctly all errors?
--   [ ] Does all endpoints are tested?
+*   [ ] Does all endpoints returns JSON?
+*   [ ] Does all endpoints handle correctly all errors?
+*   [ ] Does all endpoints are tested?

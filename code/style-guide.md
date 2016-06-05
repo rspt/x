@@ -2,4 +2,4 @@
 
 ## Sources
 
--   [Awesome Style Guides](https://github.com/kciter/awesome-style-guide)
+*   [Awesome Style Guides](https://github.com/kciter/awesome-style-guide)
