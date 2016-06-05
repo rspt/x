@@ -19,3 +19,7 @@
 [API](api.md)
 [Code review](code-review.md)
 [Style Guide](style-guide.md)
+
+## Accessibility
+
+[Accessibility](accessibility.md)
