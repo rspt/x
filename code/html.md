@@ -27,6 +27,10 @@ add the following meta tags:
 <meta name="twitter:site" content="@website-username">
 ```
 
+## Favicons
+
+*   [Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet)
+
 ## Resources
 
 *   [HEAD](https://github.com/joshbuchea/HEAD) - A list of everything that goes
