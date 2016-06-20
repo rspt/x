@@ -20,5 +20,3 @@
     *   Grid
 
 *   Some examples of use
-
-## Resources
