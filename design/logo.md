@@ -2,50 +2,45 @@
 
 ## Questions for the client
 
-*   Quelle impression générale d'une marque particulière le logo doit-il
-communiquer?
+*   What general impression of a particular brand the logo should communicate?
 
-*   Quels sont les buts recherchés par le logo et quelle affirmation
-(positionnement de l'image) doit-il communiquer?
+*   What are the objectives sought by the logo and any assertion (image
+    positioning) does it communicate?
 
-*   A quel groupe cible s'adresse-t-il? (Pour que l'affirmation recherchée par
-un logo soit pleinement compréhensible, il est important d'établir le contexte
-culturel dans lequel celui-ci doit être utilisé.)
+*   At which target group he address? (For the sought assertion a logo is fully
+    understandable, it is important to establish the context cultural context
+    in which it is used.)
 
-*   Les couleurs, la police de caractères et la forme conviennent-elles à
-l'image de l'entreprise?
+*   Colors, how appropriate the font and form the company's image?
 
-*   Le logo est-il entièrement différent de ceux des concurrents?
+*   Is the logo entirely different from those of competitors?
 
-*   Le logo est-il clairement lisible, compréhensible et mémorisable? Peut-il
-être reconnu?
+*   Is the logo clearly visible, understandable and memorable? Can it be
+    recognized?
 
-*   Le logo peut-il être transféré efficacement sur tous les supports et
-peut-il être reproduit à l'aide de tous les procédés d'impression courants?
+*   Can the logo be transferred efficiently in all media and can be printed
+    using all standard printing processes?
 
-*   Le logo conserve-t-il son efficacité et son impact s'il est reproduit en
-monochrome?
+*   He keeps effectiveness and impact if reproduced in monochrome?
 
-*   Le logo peut-il être utilisé en positif et en négatif?
+*   Can the logo be used in positive and negative?
 
-*   Le logo peut-il être agrandi ou réduit sans perte de qualité (impact et
-lisibilité)? (La version de base ne peut pas être simplement réduite ou
-agrandie dans son ensemble, il vaut mieux créer et optimiser plusieurs tailles)
+*   Can the logo be enlarged or reduced without loss of quality (impact and
+    readability)? (The basic version can not be simply reduced or enlarged as a
+    whole, it is better to create and optimize several sizes)
 
-*   Le logo peut-il être utilisé à long terme, indépendamment des tendances
-actuelles?
+*   Can the logo be used long term, regardless of trends current?
 
-*   Le logo peut-il être reproduit de façon appropriée sur d'autres supports,
-tels qu'un fax ou un écran?
+*   Can the logo be reproduced properly on other media, such as a fax or a
+    screen?
 
-*   Les couleurs du logo peuvent-elles être transférées sur l'ensemble du
-design d'entreprise?
+*   Can the colors of the logo being transferred to the entire corporate design?
 
-*   A quel point le logo est-il économique? (nombre de couleur, facilité de
-reproduction sur les supports... En général l'utilisation de plus de trois
-couleurs ou de couleurs spéciales augmente les coûts de production).
+*   To what extent does the economic logo? (Number of color, ease of
+    reproduction on the supports ... In general the use of more than three
+    colors or special colors increases production costs).
 
-*   Le logo doit-il être renforcé par un slogan (gros titre) qui contribuera à
-communiquer le message principal?
+*   Does the logo be reinforced with a slogan (headline) that will help
+    communicate the main message?
 
-*   Le logo peut-il être adapté à d'autres secteurs d'activités si nécessaire?
+*   Can the logo be adapted to other sectors if necessary?
