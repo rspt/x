@@ -17,6 +17,8 @@
 
 *   Visual language
 
+    *   Grid
+
 *   Some examples of use
 
 ## Resources
