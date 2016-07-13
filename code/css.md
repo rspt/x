@@ -28,6 +28,13 @@ You should use *!important* for [utility classes](http://csswizardry.com/2015/03
 If it’s permanent styling, formalise it and code it right into your CSS. If
 it’s short-term or one-off styling, use an utility class.
 
+### Typography
+
+Use this stack for display native font:
+```css
+font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+```
+
 ## Resources
 
 *   [An ultimate guide to CSS pseudo classes and pseudo elements](https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/)
