@@ -10,7 +10,7 @@
 
 *   [Languages](code/languages/readme.md)
 
-    *   [HTML](code/languages/js.md)
+    *   [HTML](code/languages/html.md)
     *   [CSS](code/languages/css.md)
     *   [JavaScript](code/languages/js.md)
 
