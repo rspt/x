@@ -26,6 +26,10 @@
         *   [Code review](code/code-management/code-review.md)
         *   [Style Guide](code/code-management/style-guide.md)
 
+    *   [Continous Integration](code/ci/readme.md)
+
+        *   [Jenkins](code/ci/jenkins.md)
+
     *   [CMS](code/cms/readme.md)
 
         *   [Wordpress](code/cms/wordpress.md)
