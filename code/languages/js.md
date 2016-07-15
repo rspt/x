@@ -1,4 +1,4 @@
-# x - code - js
+# x - code - languages - js
 
 ## Rules
 

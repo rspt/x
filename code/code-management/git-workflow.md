@@ -1,4 +1,4 @@
-# x - code - git workflow
+# x - code - code-management - git workflow
 
 Les workflows les plus courants sont:
 

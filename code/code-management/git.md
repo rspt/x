@@ -1,4 +1,4 @@
-# x - code - git
+# x - code - code-management - git
 
 Git est un système de contrôle de version. Sa force réside dans sa simplicité
 d'utilisation et la possibilité de traquer n'importe quels changements de

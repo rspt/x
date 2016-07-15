@@ -1,4 +1,4 @@
-# x - code - github
+# x - code - code-management - github
 
 GitHub est une plateforme de dépôt Git collaborative. Elle s'est rapidement
 imposée comme LA plateforme de collaboration pour les projets informatiques et
