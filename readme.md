@@ -2,12 +2,8 @@
 
 :tiger:
 
-This is my personal list of resources,
-things to check when doing a project and every other stuff I want.
-
-## Contribute
-
-Feel free to open an issue or to submit a PR!
+This is my personal list of resources. It contains useful links, reminders and
+checklists for my daily work.
 
 ## license
 
