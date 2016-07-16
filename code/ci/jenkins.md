@@ -27,6 +27,9 @@ The idea is to use [deploy keys](https://developer.github.com/guides/managing-de
 and the [GitHub](https://wiki.jenkins-ci.org/display/JENKINS/Github+Plugin)
 plugin installed!
 
+:warning: Make sure to correctly set up the hook! (The URL can be found in the
+configure section)
+
 ### Deploy build to S3
 
 Use the [S3 plugin](https://wiki.jenkins-ci.org/display/JENKINS/S3+Plugin)
