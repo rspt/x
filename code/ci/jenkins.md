@@ -38,6 +38,11 @@ docker run -d --name jenkins -p 8080:8080 -p 50000:50000 -v /your/home:/var/jenk
 :warning: It's strongly recommended to mount the directory `/var/jenkins_home`
 on a volume as it is the config directory where everything is saved.
 
+## Tips & Tricks
+
+If your run Jenkins on top of Docker in Digitalocean, I recommend at least 1GB
+of CPU.
+
 ## Resources
 
 *   [Jenkins](https://jenkins.io/)
