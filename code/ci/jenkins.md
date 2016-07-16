@@ -31,6 +31,33 @@ plugin installed!
 
 Use the [S3 plugin](https://wiki.jenkins-ci.org/display/JENKINS/S3+Plugin)
 
+1.  [Create an S3 bucket for static hosting](http://docs.aws.amazon.com/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html)
+
+2.  Create an IAM user role and assign it the following policy (replacing the
+    `yourbucket` by the correct bucket name)
+
+    ```json
+    {
+        "Version": "2012-10-17",
+        "Statement": [
+            {
+                "Sid": "Stmt1468670379000",
+                "Effect": "Allow",
+                "Action": [
+                    "s3:*"
+                ],
+                "Resource": [
+                    "arn:aws:s3:::yourbucket.com/*"
+                ]
+            }
+        ]
+    }
+    ```
+
+3.  Create an S3 profile on Jenkins using IAM credentials
+
+4.  Add a post-build action on Jenkins pipeline
+
 ## Deploy with Docker
 
 With Docker ([docker image](https://hub.docker.com/_/jenkins/)):
