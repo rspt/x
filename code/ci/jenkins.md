@@ -74,8 +74,8 @@ on a volume as it is the config directory where everything is saved.
 
 ## Tips & Tricks
 
-If your run Jenkins on top of Docker in Digitalocean, I recommend at least 1GB
-of CPU.
+If your run Jenkins on top of Docker in Digitalocean, I recommend at least 2GB
+of Memory.
 
 ## Resources
 
