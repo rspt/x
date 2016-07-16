@@ -27,7 +27,7 @@ The idea is to use [deploy keys](https://developer.github.com/guides/managing-de
 and the [GitHub](https://wiki.jenkins-ci.org/display/JENKINS/Github+Plugin)
 plugin installed!
 
-### Deploy with Docker
+## Deploy with Docker
 
 With Docker ([docker image](https://hub.docker.com/_/jenkins/)):
 
