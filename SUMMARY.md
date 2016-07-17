@@ -36,6 +36,8 @@
 
     *   [Accessibility](code/accessibility/accessibility.md)
 
+    *   [Analytics](code/analytics/readme.md)
+
     *   [Third Party](code/third-party/readme.md)
 
         *   [Facebook](code/third-party/facebook.md)
