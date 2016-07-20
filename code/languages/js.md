@@ -10,7 +10,7 @@ Why:
 *   [An Open Letter to JavaScript Leaders Regarding Semicolons](http://blog.izs.me/post/2353458699/an-open-letter-to-javascript-leaders-regarding)
 *   [JavaScript Semicolon Insertion](http://inimino.org/~inimino/blog/javascript_semicolons)
 
-The only place to put a semicolon is when a line starts with parenthesis!
+The only place to put a semicolon is when a line starts with `(`, `[`, `` ` ``!
 
 ```js
 a = b + c
