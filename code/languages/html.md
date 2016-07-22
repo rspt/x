@@ -33,5 +33,6 @@ add the following meta tags:
 
 ## Resources
 
+*   [StackOverflow HTML Documentation](http://stackoverflow.com/documentation/html)
 *   [HEAD](https://github.com/joshbuchea/HEAD) - A list of everything that goes
     in the `<head>` of your document
