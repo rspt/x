@@ -23,4 +23,5 @@ a = b + c
 
 ## Resources
 
+*   [StackOverflow JavaScript documentation](http://stackoverflow.com/documentation/javascript/topics)
 *   [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
