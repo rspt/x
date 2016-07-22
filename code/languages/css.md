@@ -37,6 +37,7 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, A
 
 ## Resources
 
+*   [StackOverflow CSS Documentation](http://stackoverflow.com/documentation/css)
 *   [An ultimate guide to CSS pseudo classes and pseudo elements](https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/)
 *   [BEM](https://en.bem.info/)
 *   [Sass](http://sass-lang.com/)
