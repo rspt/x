@@ -67,3 +67,4 @@
     *   [Logo](design/logo.md)
     *   [Typography](design/typography.md)
     *   [Graphical Charter](design/graphical-charter.md)
+    *   [Illustrator](design/illustrator.md)
