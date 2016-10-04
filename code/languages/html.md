@@ -1,5 +1,27 @@
 # x - code - languages - html
 
+## Base template
+
+```html
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>X</title>
+    <meta name="description" content="X">
+    <meta name="author" content="rspt">
+
+    <link rel="stylesheet" href="css/styles.css?v=1.0">
+  </head>
+
+  <body>
+    <script src="js/scripts.js"></script>
+  </body>
+</html>
+```
+
 ## Social
 
 In order to make your website displays nicealy on Facebook & Twitter, you can
