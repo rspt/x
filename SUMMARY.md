@@ -28,6 +28,7 @@
 
     *   [Continous Integration](code/ci/readme.md)
 
+        *   [Docker](code/ci/docker.md)
         *   [Jenkins](code/ci/jenkins.md)
 
     *   [Command Line Interface](code/cli/readme.md)
