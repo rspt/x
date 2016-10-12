@@ -61,7 +61,7 @@
 
 ## UX
 
-*   [UX](us/readme.md)
+*   [UX](ux/readme.md)
 
 ## UI
 
