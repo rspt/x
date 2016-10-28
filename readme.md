@@ -5,6 +5,8 @@
 This is my personal list of resources. It contains useful links, reminders and
 checklists for my daily work.
 
+You can read it here: [x.rspt.io](https://x.rspt.io/).
+
 ## Development
 
 X runs on [GitBook](https://www.gitbook.com/).
