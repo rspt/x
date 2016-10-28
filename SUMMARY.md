@@ -15,6 +15,7 @@
         *   [HTML](code/languages/html.md)
         *   [CSS](code/languages/css.md)
         *   [JavaScript](code/languages/js.md)
+        *   [Python](code/languages/python.md)
 
     *   [Code Management](code/code-management/readme.md)
 
