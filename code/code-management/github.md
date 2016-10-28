@@ -44,4 +44,5 @@ p.e. "Dans la version 8.0.1, qui sortira le 23 mars, j'aimerais que les issues
 ## Ressources
 
 *   [GitHub](https://github.com)
+*   [GitHUb Help](https://help.github.com/)
 *   [Guides - EN](https://guides.github.com)
