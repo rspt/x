@@ -11,4 +11,5 @@
 
 ## Placeholders
 
+*   [Haikunator](https://github.com/usmanbashir/haikunator) - Heroku-like random name generator
 *   [Goodbye John Doe](http://goodbyejohndoe.com/) - name placeholder
