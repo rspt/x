@@ -7,6 +7,7 @@
 ## Static Site Generators
 
 *   [Gatsby](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using React.js
+*   [Hugo](https://github.com/spf13/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang
 
 ## Placeholders
 
