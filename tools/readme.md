@@ -4,6 +4,10 @@
 
 *   [WhatWeb](http://whatweb.net/) - next generation web scanner
 
+## Awesome
+
+*   [Awesome](https://github.com/sindresorhus/awesome) - awesome main list
+
 ## Static Site Generators
 
 *   [Gatsby](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using React.js
