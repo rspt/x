@@ -8,6 +8,15 @@
 
 *   [Awesome](https://github.com/sindresorhus/awesome) - awesome main list
 
+Awesomes lists who aren't in the [sindresorhus/awesome's](https://github.com/sindresorhus/awesome) list:
+
+*   [Design](https://github.com/gztchan/awesome-design)
+*   [Redux](https://github.com/xgrommx/awesome-redux)
+*   [Style Guides](https://github.com/kciter/awesome-style-guide) - for code
+*   [Live Coding](https://github.com/moebiuseye/awesome-live-coding)
+*   [Glitch Art](https://github.com/rspt/awesome-glitch-art)
+*   [Generative Art](https://github.com/rspt/awesome-generative-art)
+
 ## Static Site Generators
 
 *   [Gatsby](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using React.js
