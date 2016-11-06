@@ -26,3 +26,7 @@ Awesomes lists who aren't in the [sindresorhus/awesome's](https://github.com/sin
 
 *   [Haikunator](https://github.com/usmanbashir/haikunator) - Heroku-like random name generator
 *   [Goodbye John Doe](http://goodbyejohndoe.com/) - name placeholder
+
+## Diagram & Flowcharts
+
+*   [Mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
