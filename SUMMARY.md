@@ -80,3 +80,5 @@
 ## Tools
 
 *   [Tools](tools/readme.md)
+
+    *   [Editors](tools/editors/readme.md)
