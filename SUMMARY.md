@@ -60,6 +60,10 @@
 
     *   [S3](aws/s3/readme.md)
 
+## Hosts
+
+*   [Hosts](hosts/readme.md)
+
 ## UX
 
 *   [UX](ux/readme.md)
