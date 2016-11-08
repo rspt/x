@@ -44,6 +44,11 @@ body {
 *   [BEM](https://en.bem.info/)
 *   [Sass](http://sass-lang.com/)
 
+### Libraries
+
+*   [Bootstrap](http://getbootstrap.com/)
+*   [Foundation for Sites](http://foundation.zurb.com/)
+
 ### Parker (Stylesheet analysis tool)
 
 *   [Parker](https://github.com/katiefenn/parker/)
