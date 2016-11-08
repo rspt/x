@@ -24,4 +24,5 @@ a = b + c
 ## Resources
 
 *   [StackOverflow JavaScript documentation](http://stackoverflow.com/documentation/javascript/topics)
+*   [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6)
 *   [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
