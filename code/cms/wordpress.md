@@ -12,3 +12,7 @@
 ### Best practices
 
 *   [How To Make WordPress Hard For Clients To Mess Up](https://www.smashingmagazine.com/2016/07/how-to-make-wordpress-hard-for-clients-to-mess-up/)
+
+### Themes
+
+*   [_s](http://underscores.me/)
