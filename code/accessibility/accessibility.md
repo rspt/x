@@ -32,5 +32,6 @@ in the language.
 ## Resources
 
 *   [a11y](http://a11yproject.com/)
+*   [ChromeLens](http://chromelens.xyz/) - Chrome DevTools extension to develop for the visually impaired
 *   [ally.js](https://allyjs.io/) - JavaScript library to help modern web applications with accessibility concerns
 *   [khan/tota11y](http://khan.github.io/tota11y/)
