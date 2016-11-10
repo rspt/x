@@ -17,4 +17,5 @@ I use the [larucheio's conventions](https://github.com/larucheio/conventions/tre
 *   [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6)
 *   [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 *   [Simplified JavaScript Jargon](http://jargon.js.org/)
+*   [Function Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
 *   [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
