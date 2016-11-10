@@ -44,7 +44,7 @@ Awesomes lists who aren't in the [sindresorhus/awesome's](https://github.com/sin
 *   [Scrapy](https://scrapy.org/)
 *   [eduardschaeli/wget-image-scraper](https://github.com/eduardschaeli/wget-image-scraper) - Scrapes images from a list of urls with wget
 
-## Page Speed
+## Audit & Performance for Web
 
 *   [Coach](https://github.com/sitespeedio/coach) - Clear Eyes. Full Hearts. Can’t Lose.
 *   [PSI](https://github.com/addyosmani/psi) - PageSpeed Insights with reporting
