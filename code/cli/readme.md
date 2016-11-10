@@ -1,5 +1,8 @@
 # x - code - command line interface
 
+## Oh My ZSH
+
+*   [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 
 ## Building CLI with NodeJS
 
