@@ -8,6 +8,10 @@
 
 *   [vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
 
+### Resources
+
+*   [Vim Galore](https://github.com/mhinz/vim-galore) - All things Vim!
+
 ## Atom
 
 *   [Atom](https://atom.io/)
