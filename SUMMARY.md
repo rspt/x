@@ -34,6 +34,8 @@
 
     *   [Command Line Interface](code/cli/readme.md)
 
+    *   [Servers](code/servers/readme.md)
+
     *   [CMS](code/cms/readme.md)
 
         *   [Wordpress](code/cms/wordpress.md)
