@@ -27,3 +27,7 @@ This is about building CLI with NodeJS
 
 *   [preferences](https://github.com/CaffeinaLab/preferences) - Manage CLI
     application encrypted preferences
+
+## Resources
+
+*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
