@@ -54,6 +54,7 @@ body {
 ### Tools
 
 *   [Can I Use](http://caniuse.com/)
+*   [Pesticide](http://pesticide.io/) [🦄](https://github.com/mrmrs/pesticide) - Kill your css layout bugs
 *   [Autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use
 
 ### Parker (Stylesheet analysis tool)
