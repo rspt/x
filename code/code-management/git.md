@@ -52,3 +52,4 @@ le **workflow** choisi pour le projet. On peut cependant cités quelques règles
 *   [Git Book - FR](https://git-scm.com/book/fr/v2)
 *   [Aide-mémoire Git par GitHub - FR](https://training.github.com/kit/downloads/fr/github-git-cheat-sheet.pdf)
 *   [Art of Pull Request](https://ponyfoo.com/articles/art-of-pull-request)
+*   [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
