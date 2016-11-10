@@ -42,3 +42,7 @@ Awesomes lists who aren't in the [sindresorhus/awesome's](https://github.com/sin
 ## Web Crawling & Scraping
 
 *   [Scrapy](https://scrapy.org/)
+
+## Page Speed
+
+*   [PSI](https://github.com/addyosmani/psi) - PageSpeed Insights with reporting
