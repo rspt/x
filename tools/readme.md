@@ -48,6 +48,7 @@ Awesomes lists who aren't in the [sindresorhus/awesome's](https://github.com/sin
 
 *   [Coach](https://github.com/sitespeedio/coach) - Clear Eyes. Full Hearts. Can’t Lose.
 *   [PSI](https://github.com/addyosmani/psi) - PageSpeed Insights with reporting
+*   [Lighthouse](https://github.com/GoogleChrome/lighthouse) - Auditing and performance metrics for Progressive Web Apps
 
 ## Be a good guy
 
