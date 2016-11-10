@@ -19,3 +19,9 @@ I use the [larucheio's conventions](https://github.com/larucheio/conventions/tre
 *   [Simplified JavaScript Jargon](http://jargon.js.org/)
 *   [Function Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
 *   [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
+
+### Books
+
+Bavacqua - Modular JavaScript Book Series
+
+*   [Practical ES6](https://github.com/mjavascript/practical-es6)
