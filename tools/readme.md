@@ -42,6 +42,7 @@ Awesomes lists who aren't in the [sindresorhus/awesome's](https://github.com/sin
 ## Web Crawling & Scraping
 
 *   [Scrapy](https://scrapy.org/)
+*   [eduardschaeli/wget-image-scraper](https://github.com/eduardschaeli/wget-image-scraper) - Scrapes images from a list of urls with wget
 
 ## Page Speed
 
