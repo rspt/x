@@ -49,6 +49,7 @@ body {
 *   [Bootstrap](http://getbootstrap.com/)
 *   [Foundation for Sites](http://foundation.zurb.com/)
 *   [Tachyons](http://tachyons.io/)
+*   [Primer](http://primercss.io/) - The base coat of GitHub. Our internal CSS toolkit and guidelines.
 
 ### Parker (Stylesheet analysis tool)
 
