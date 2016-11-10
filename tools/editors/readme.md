@@ -19,3 +19,4 @@
 ### Plugins
 
 *   [Git Time Machine](https://github.com/littlebee/git-time-machine) - Atom package that allows you to travel back in commit history
+*   [Alex Linter](https://github.com/wooorm/atom-linter-alex)

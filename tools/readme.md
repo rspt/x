@@ -46,3 +46,7 @@ Awesomes lists who aren't in the [sindresorhus/awesome's](https://github.com/sin
 ## Page Speed
 
 *   [PSI](https://github.com/addyosmani/psi) - PageSpeed Insights with reporting
+
+## Be a good guy
+
+*   [Alexjs](http://alexjs.com/) - Catch insensitive, inconsiderate writing
