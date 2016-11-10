@@ -31,6 +31,10 @@ Awesomes lists who aren't in the [sindresorhus/awesome's](https://github.com/sin
 
 *   [Mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 
+## Images
+
+*   [ImageOptim](https://imageoptim.com/mac)
+
 ## Emoji
 
 *   [Emoji Cheat Sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/) - A one pager for emojis on Campfire and GitHub
