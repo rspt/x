@@ -16,3 +16,4 @@ I use the [larucheio's conventions](https://github.com/larucheio/conventions/tre
 *   [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 *   [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6)
 *   [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+*   [Simplified JavaScript Jargon ](http://jargon.js.org/)
