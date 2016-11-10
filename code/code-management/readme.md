@@ -1,5 +1,9 @@
 # x - code - code-management
 
+## Conventions
+
+*   [bradfrost/frontend-guidelines-questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
+
 ## Resources
 
 ### Code Analytics
