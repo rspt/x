@@ -11,3 +11,7 @@
 ## Atom
 
 *   [Atom](https://atom.io/)
+
+### Plugins
+
+*   [Git Time Machine](https://github.com/littlebee/git-time-machine) - Atom package that allows you to travel back in commit history
