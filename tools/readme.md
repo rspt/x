@@ -38,3 +38,7 @@ Awesomes lists who aren't in the [sindresorhus/awesome's](https://github.com/sin
 ## Emoji
 
 *   [Emoji Cheat Sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/) - A one pager for emojis on Campfire and GitHub
+
+## Web Crawling & Scraping
+
+*   [Scrapy](https://scrapy.org/)
