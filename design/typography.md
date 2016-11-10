@@ -3,6 +3,7 @@
 ## Fonts
 
 -   [Apple's San Fransisco Font](https://developer.apple.com/fonts/)
+-   [Noto](https://www.google.com/get/noto/) - All Printable Characters in the World
 
 ## Resources
 
