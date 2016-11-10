@@ -21,6 +21,8 @@
 *   [ ] Are output values checked and encoded?
 *   [ ] Are invalid parameter values handled?
 
+More on [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers)
+
 ### Documentation
 
 *   [ ] Do comments exist and describe the intent of the code?
