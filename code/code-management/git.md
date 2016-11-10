@@ -53,3 +53,4 @@ le **workflow** choisi pour le projet. On peut cependant cités quelques règles
 *   [Aide-mémoire Git par GitHub - FR](https://training.github.com/kit/downloads/fr/github-git-cheat-sheet.pdf)
 *   [Art of Pull Request](https://ponyfoo.com/articles/art-of-pull-request)
 *   [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
+*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
