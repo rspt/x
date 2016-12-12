@@ -39,6 +39,7 @@ body {
 
 ## Resources
 
+*   [CSS Guidelines - Harry Roberts](http://cssguidelin.es/)
 *   [StackOverflow CSS Documentation](http://stackoverflow.com/documentation/css)
 *   [An ultimate guide to CSS pseudo classes and pseudo elements](https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/)
 *   [BEM](https://en.bem.info/)
