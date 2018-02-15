@@ -18,6 +18,7 @@ layout: page
 
 ### Tools
 
+- [Pigment](https://pigment.shapefactory.co/) - Color matching
 - 💵 [IRIS](https://alpert.altervista.org/iris/) - Color Palette Editor
 
 ## Space
