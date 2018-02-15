@@ -32,3 +32,7 @@ layout: page
 ### Tools
 
 - [Responsive Screenshots](https://responsive-screenshots.com/)
+
+## Patterns
+
+- [SVGBackgrounds](https://www.svgbackgrounds.com/) - Customizable SVG patterns and background designs
