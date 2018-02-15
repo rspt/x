@@ -6,6 +6,10 @@ layout: page
 
 ## Typography
 
+### Type Foundries
+
+- [fonts.lol](http://www.fonts.lol/) - Color fonts foundry
+
 ### Articles
 
 - [A More Modern Scale for Web Typography](http://typecast.com/blog/a-more-modern-scale-for-web-typography)
